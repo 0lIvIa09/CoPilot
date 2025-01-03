@@ -48,9 +48,6 @@ export type LicenseFeatures =
 	| "MIMECAST"
 	| "CARBONBLACK"
 	| "SOCFORTRESS AI"
-	| "MSSP Unlimited"
-	| "MSSP 10"
-	| "MSSP 5"
 
 export type LicenseKey = `${string}-${string}-${string}-${string}`
 
