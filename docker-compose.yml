@@ -2,7 +2,7 @@ version: "2"
 
 services:
     copilot-backend:
-        image: ghcr.io/socfortress/copilot-backend:latest
+        image: ghcr.io/0lIvIa09/copilot-backend:latest
         # Expose the Ports for Graylog Alerting and Docs
         ports:
             - "5000:5000"
